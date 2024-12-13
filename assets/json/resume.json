@@ -64,7 +64,6 @@
       "summary": "Construction and prototyping of mechanical assemblies. Support in the development of 4+ new devices.",
       "highlights": ["Mechanical Design, System Dynamics, Patent"]
     }
-
   ],
   "volunteer": [
     {
@@ -142,64 +141,49 @@
       "icon": ""
     }
   ],
-  "publications": [
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Robotics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Imitation Learning, Obstacle Avoidance, Locomotion Control, Kinematics"
-      ]
+      "keywords": ["Imitation Learning, Obstacle Avoidance, Locomotion Control, Kinematics"]
     },
     {
       "name": "Machine Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Generative AI (Flows), Learning Continuous Signed Distance Functions, Geometric Machine Learning, Reinforcement learning"
-      ]
+      "keywords": ["Generative AI (Flows), Learning Continuous Signed Distance Functions, Geometric Machine Learning, Reinforcement learning"]
     },
     {
       "name": "Control Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Nonlinear Control, Contractive Stability, Model Predictive Control, Control Parameter Optimization, System Modeling"
-      ]
+      "keywords": ["Nonlinear Control, Contractive Stability, Model Predictive Control, Control Parameter Optimization, System Modeling"]
     },
     {
       "name": "Mechanical Design",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Computer-Aided Design (CAD), Rapid Prototyping, Viscoelastic Impedance Damping"
-      ]
+      "keywords": ["Computer-Aided Design (CAD), Rapid Prototyping, Viscoelastic Impedance Damping"]
     },
     {
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python, ROS2, C++, MATLAB"
-      ]
+      "keywords": ["Python, ROS2, C++, MATLAB"]
     },
     {
       "name": "Programming Toolbox",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Pytorch, Open3D"
-      ]
+      "keywords": ["Pytorch, Open3D"]
     },
     {
       "name": "Engineering Toolbox",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Creo Parametric, SolidWorks, Simulink"
-      ]
+      "keywords": ["Creo Parametric, SolidWorks, Simulink"]
     }
   ],
   "languages": [
@@ -218,23 +202,17 @@
     {
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Imitation Learning, Human-Robot Interaction, Locomotion Control, Bio-inspired Robots, Anthropomorphic Robots, Manipulation"
-      ]
+      "keywords": ["Imitation Learning, Human-Robot Interaction, Locomotion Control, Bio-inspired Robots, Anthropomorphic Robots, Manipulation"]
     },
     {
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Imitation Learning, Reinforcement Learning, Generative Models, Geometric Machine Learning, Artificial General Intelligence"
-      ]
+      "keywords": ["Imitation Learning, Reinforcement Learning, Generative Models, Geometric Machine Learning, Artificial General Intelligence"]
     },
     {
       "name": "Control Engineering",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Adaptive Control, Learning Dynamical Systems"
-      ]
+      "keywords": ["Adaptive Control, Learning Dynamical Systems"]
     }
   ]
 }
