@@ -15,9 +15,9 @@ In order to take advantage of these challenges and opportunities, we came up wit
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Desoltik_cycle.png" title="Circular Industry" class="img-fluid rounded z-depth-1" style="max-width: 50%; height: auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/Desoltik_cycle.png" title="Circular Industry" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>>
+</div>
 <div class="caption">
     Desoltik's vision of a circular electronics industry
 </div>
