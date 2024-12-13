@@ -10,14 +10,14 @@ related_publications: false
 
 > **Goal**: Enabling a sustainable circular economy in the electronics industry by developing an automated semiconductor reconditioning system. The aim is to reduce the costs of reuse and utilize the maximum service life while saving resources at the same time.
 
-I co-founded the start-up [Desoltik] (https://desoltik.com/) together with three other companies, the idea for which originated in the [Student Innovation Lab](https://www.kit-student-innovation-lab.de/) at KIT. Inspired by the chip crisis in 2022, we realized how dependent we are on the semiconductor industry and how fragile the supply chains are. At the same time, electronic waste is growing immensely, although it still contains many important resources, not only the materials, but also the semiconductors themselves, some of which have a much longer lifespan.
+I co-founded the start-up [Desoltik](https://desoltik.com/) together with three other companies, the idea for which originated in the [Student Innovation Lab](https://www.kit-student-innovation-lab.de/) at KIT. Inspired by the chip crisis in 2022, we realized how dependent we are on the semiconductor industry and how fragile the supply chains are. At the same time, electronic waste is growing immensely, although it still contains many important resources, not only the materials, but also the semiconductors themselves, some of which have a much longer lifespan.
 In order to take advantage of these challenges and opportunities, we came up with the idea of how to access these semiconductors efficiently and minimally invasively without damaging them, but still recovering them in a highly flexible way and in large quantities.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Desoltik_cycle.png" title="Circular Industry" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<p align="center">
+  <a>
+    <img src="assets/img/Desoltik_cycle.png" width="50%">
+  </a>
+</p>
 <div class="caption">
     Desoltik's vision of a circular electronics industry
 </div>
