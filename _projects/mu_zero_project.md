@@ -26,7 +26,7 @@ In a final step, a distance between the EMS systems and the rail is calculated u
         {% include figure.liquid loading="eager" path="assets/img/MuZero_ControlConcept.png" title="ControlConcept" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-{% include video.liquid path="assets/video/GA-Opt.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %} 
+{% include video.liquid path="assets/video/GA-Opt.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %} 
 <div class="caption">
     Control parameter optimization with particle swarm optimisation in combination with a Genetic algorithm with tournament selection
 </div>
