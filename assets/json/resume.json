@@ -20,7 +20,8 @@
   },
   "work": [
     {
-      "name": "Bosch Center for Artificial Intelligence (BCAI), Renningen",
+      "name": "Bosch Center for Artificial Intelligence (BCAI)",
+      "location": "Renningen, Germany",
       "position": "Master’s Thesis",
       "url": "https://www.bosch-ai.com/",
       "startDate": "2024-05",
@@ -29,7 +30,8 @@
       "highlights": ["GenAI & Robotics"]
     },
     {
-      "name": "Bosch Center for Artificial Intelligence (BCAI), Renningen",
+      "name": "Bosch Center for Artificial Intelligence (BCAI)",
+      "location": "Renningen, Germany",
       "position": "Internship",
       "url": "https://www.bosch-ai.com/",
       "startDate": "2023-10",
@@ -39,6 +41,7 @@
     },
     {
       "name": "Desoltik, Karlsruhe",
+      "location": "Karlsruhe, Germany",
       "position": "Co-Founder Tech-Startup",
       "url": "https://desoltik.com/",
       "startDate": "2022-10",
@@ -47,7 +50,8 @@
       "highlights": ["Circular industry, Control Engineering, Machine Learning, International Fairs"]
     },
     {
-      "name": "FZI Research Center for Information Technology, Karlsruhe",
+      "name": "FZI Research Center for Information Technology",
+      "location": "Karlsruhe, Germany",
       "position": "Research Assistant",
       "url": "https://www.fzi.de/en/the-fzi/who-we-are/intelligent-systems-and-production-engineering/",
       "startDate": "2022-12",
@@ -56,7 +60,8 @@
       "highlights": ["Robotics, Locomotion Behavior, Control Engineering"]
     },
     {
-      "name": "Robert Bosch Power Tools GmbH, Leinfelden-Echterdingen",
+      "name": "Robert Bosch Power Tools GmbH",
+      "location": "Leinfelden-Echterdingen, Germany",
       "position": "Internship",
       "url": "",
       "startDate": "2020-10",
