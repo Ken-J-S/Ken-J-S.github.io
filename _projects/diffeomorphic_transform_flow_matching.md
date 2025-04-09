@@ -4,7 +4,7 @@ title: Diffeomorphic Flow Matching
 description: Using a vectorfield learned by Flow Matching to transform given contractive dynamics
 img: assets/img/test_inference_traj_0.png
 importance: 1
-category: fun
+category: work
 related_publications: false
 ---
 
@@ -19,13 +19,13 @@ related_publications: false
     Overview of the proposed system pipeline.
 </div>
 
-To extract the image embeddings, DINOv2 with Registers is used. Given these embeddings a conditioned Unet backbone is trained using Flow Matching. The model architecture is analogous to [Diffusion Policy](https://github.com/real-stanford/diffusion_policy). Given this learned flow $𝑉_\text{FM}$ defines a infinitesimal generator, which again defines a diffeomorphism $\psi_\text{DT}$ over a flow $\gamma$.
+To extract the image embeddings, DINOv2 with Registers is used. Given these embeddings a conditioned Unet backbone is trained using Flow Matching. The model architecture is analogous to [Diffusion Policy](https://github.com/real-stanford/diffusion_policy). Given this learned flow $$𝑉_\text{FM}$$ defines a infinitesimal generator, which again defines a diffeomorphism $$\psi_\text{DT}$$ over a flow $$\gamma$$.
 
 $$
 \psi_\text{DT}(\mathbf{x}) = \mathbf{x} + \int 𝑉_\text{FM} (\gamma(\mathbf{x}, u))
 $$
 
-Given this diffeomorphic transform, I transform the base contractive dynamics $f_\text{c}$ into the target dynamical system $f_\text{target}$, as follows
+Given this diffeomorphic transform, I transform the base contractive dynamics $$f_\text{c}$$ into the target dynamical system $$f_\text{target}$$, as follows
 
 $$
 f_\text{target}(\mathbf{x}) = \mathbf{J}_{\psi_\text{DT}}^{-1}(\mathbf{x})f_\text{c}(\psi_\text{DT}(\mathbf{x}))
