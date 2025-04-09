@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-> **Goal**: Develop a non-linear levitation control for a 6DOF free-floating hyperloop pod.
+> :dart: **Goal**: Develop a non-linear levitation control for a 6DOF free-floating hyperloop pod.
 
 Based on an electromagnetic suspension (EMS), the reluctance force is utilized to generate a force that counteracts gravity and makes the vehicle levitate. Complex non-linear electromagnetic system properties must be stabilized.
 It is important to get as close as possible to the rail in order to save energy, but the force becomes significantly more non-linear and the control system more complex. In addition, temperatures and irregularities in the surface make static stabilization more difficult.

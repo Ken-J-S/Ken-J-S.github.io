@@ -8,6 +8,6 @@ category: work
 related_publications: false
 ---
 
-> **Goal**: Enabling contraction-preserving obstacle avoidance using a learned neural contractive dynamic system.
+> :dart: **Goal**: Enabling contraction-preserving obstacle avoidance using a learned neural contractive dynamic system.
 
 More will follow as soon as the paper is published

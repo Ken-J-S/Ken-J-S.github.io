@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-> **Goal**: Enabling a sustainable circular economy in the electronics industry by developing an automated semiconductor reconditioning system. The aim is to reduce the costs of reuse and utilize the maximum service life while saving resources at the same time.
+> :dart: **Goal**: Enabling a sustainable circular economy in the electronics industry by developing an automated semiconductor reconditioning system. The aim is to reduce the costs of reuse and utilize the maximum service life while saving resources at the same time.
 
 I co-founded the start-up [Desoltik](https://desoltik.com/) together with three other companies, the idea for which originated in the [Student Innovation Lab](https://www.kit-student-innovation-lab.de/) at KIT. Inspired by the chip crisis in 2022, we realized how dependent we are on the semiconductor industry and how fragile the supply chains are. At the same time, electronic waste is growing immensely, although it still contains many important resources, not only the materials, but also the semiconductors themselves, some of which have a much longer lifespan.
 In order to take advantage of these challenges and opportunities, we came up with the idea of how to access these semiconductors efficiently and minimally invasively without damaging them, but still recovering them in a highly flexible way and in large quantities.
@@ -27,6 +27,8 @@ In order to take advantage of these challenges and opportunities, we came up wit
 </div>
 
 Supported by the [wbk nstitute of Production Science](https://www.wbk.kit.edu/english/index.php), we were able to develop our first prototype, with which we were able to successfully desolder the first semiconductors. The focus here was on technical feasibility and generating knowledge.
+
+> With this prototype we won the **Best Product Award 2023** at the [Student Innovation Lab](https://www.kit-student-innovation-lab.de/) :tada:
 
 {% include video.liquid path="assets/video/Desoltik-Prototyp1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 
