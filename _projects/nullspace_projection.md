@@ -3,7 +3,7 @@ layout: page
 title: IK manifold flows
 description: Solve inverse kinematics leveraging generative manifold flows and latent nullspace projections
 img: assets/img/IK_M_Flow.png
-importance: 8
+importance: 3
 category: work
 related_publications: false
 ---

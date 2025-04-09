@@ -3,7 +3,7 @@ layout: page
 title: Desoltik
 description: Automated Semiconductor Reconditioning
 img: assets/img/Desoltik_img.png
-importance: 2
+importance: 5
 category: work
 related_publications: false
 ---

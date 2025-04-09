@@ -3,7 +3,7 @@ layout: page
 title: Diffeomorphic Flow Matching
 description: Using a vectorfield learned by Flow Matching to transform given contractive dynamics
 img: assets/img/test_inference_traj_0.png
-importance: 10
+importance: 1
 category: work
 related_publications: false
 ---

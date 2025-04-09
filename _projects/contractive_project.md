@@ -3,7 +3,7 @@ layout: page
 title: Contraction-Preserving Obstacle Avoidance
 description: Master's Thesis with BCAI
 img: assets/img/robot_sdf_.png
-importance: 9
+importance: 2
 category: work
 related_publications: false
 ---
