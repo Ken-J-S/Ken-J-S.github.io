@@ -3,7 +3,7 @@ layout: page
 title: Diffeomorphic Flow Matching
 description: Using a vectorfield learned by Flow Matching to transform given contractive dynamics
 img: assets/img/test_inference_traj_0.png
-importance: 1
+importance: 10
 category: work
 related_publications: false
 ---
@@ -37,7 +37,7 @@ This approach is inspired by the paper [Euclideanizing Flows](https://proceeding
 U-Profile.
 
 Just the picture of the scene is given. For training a spline trajectory between both profiles are calculated as groundtruth.
-5000 scene and trajectory pairs a generated and sampled from a normal distribution. The final MSE on test dataset is 0.297 and on traing dataset: 0,023 (just the generated trajectories).
+5000 scene and trajectory pairs a generated and sampled from a normal distribution. The final MSE on test dataset is $$0.297$$ and on traing dataset: $$0,023$$ (just the generated trajectories).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
