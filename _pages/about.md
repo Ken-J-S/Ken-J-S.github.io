@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master student in Robotics and Mechatronics @KIT
+subtitle: Ph.D. Student in Robot Learning @TuDarmstadt
 
 profile:
   align: right
